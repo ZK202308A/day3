@@ -12,11 +12,8 @@ public class ListEx {
         for (int i = 1; i <= 45; i++) {
             list.add(i);
         }
-
         Collections.shuffle(list);
-
         System.out.println(list);
-
         System.out.println("size: " +list.size());
 
         //순서가 맨 앞
