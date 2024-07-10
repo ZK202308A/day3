@@ -5,13 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e6b175c5-6d6e-4834-ae45-1cfde5ee2418" name="Changes" comment="ddd">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ListTemp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Monster.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/PiggySave.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/PiggySaveUI.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/ListEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/ListEx.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/PiggySave.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/PiggySave.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -217,7 +214,7 @@
       <option name="presentableId" value="Default" />
       <updated>1720485751340</updated>
       <workItem from="1720485752388" duration="19733000" />
-      <workItem from="1720568155222" duration="13168000" />
+      <workItem from="1720568155222" duration="15363000" />
     </task>
     <task id="LOCAL-00001" summary="ddd">
       <option name="closed" value="true" />
@@ -227,7 +224,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720577474830</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="ddd">
+      <option name="closed" value="true" />
+      <created>1720590721876</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1720590721876</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
