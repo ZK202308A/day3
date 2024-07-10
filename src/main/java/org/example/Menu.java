@@ -1,2 +1,9 @@
-package org.example;public class Menu {
+package org.example;
+
+import lombok.AllArgsConstructor;
+
+@AllArgsConstructor
+public class Menu {
+    String name;
+    int price;
 }
