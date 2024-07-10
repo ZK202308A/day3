@@ -7,14 +7,17 @@ import lombok.Data;
 
 import java.util.Arrays;
 import java.util.Random;
+import java.util.Scanner;
 
 
 public class Main {
     public static void main(String[] args) {
 
-//        PiggySave ps = new PiggySave();
-//        ps.deposit(100);
-//        int money = ps.withdraw();
+        PiggySave ps = new PiggySave();
+        Scanner sc = new Scanner(System.in);
+        PiggySaveUI ui = new PiggySaveUI(sc, ps);
+
+        ui.showMenus();
 
 
 //        Player player = new Player(80,"King Author");
